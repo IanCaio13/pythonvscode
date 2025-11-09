@@ -1,1 +1,1 @@
-# pythonvscode
+# RESOLUÇÕES BEECROWD- TREINO
